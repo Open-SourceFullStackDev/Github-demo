@@ -1,3 +1,3 @@
 # Github-demo
-This is my first Git Reposatory.
+This is my first Git Reposatory. <br>
 Author - Danish Sheikh
